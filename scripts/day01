@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+cargo run --quiet --bin day01 -- --input ./day01.txt --target 2020
